@@ -1,0 +1,20 @@
+<div id="voiceswrap">
+    <div class="voices-centered">
+        {% if include.title %}<h3>{{ include.title }}</h3>{% endif %}
+        <div class="recentitems voices">
+            {% for person in site.categories['person'] limit:include.limit %}
+                <div class="voices-item graphic-design">
+                    <div class="he-wrap tpl6">
+                    <img src="{{ "/assets/img/person/" | prepend: site.baseurl }}{{ person.img }}" alt="">
+                        <div class="he-view">
+                            <div class="bg a0" data-animate="fadeIn">
+                                <h3 class="a1" data-animate="fadeInDown">{{ person.title }}</h3>
+                                <a href="{{  person.url | prepend: site.baseurl }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a>
+                            </div><!-- he bg -->
+                        </div><!-- he view -->
+                    </div><!-- he wrap -->
+                </div><!-- end col-12 -->
+            {% endfor %}
+        </div><!-- voices -->
+    </div><!-- voices container -->
+</div><!--/Voiceswrap -->

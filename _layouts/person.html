@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+{% include wrap.html %}
+
+<div class="container mt">
+    <div class="row">
+
+        {% include carousel.html %}
+
+        <div class="col-lg-5 col-lg-offset-1">
+            <div class="spacing"></div>
+
+            {{ content }}
+
+        </div>
+        <div class="col-lg-4 col-lg-offset-1">
+            <div class="spacing"></div>
+            <h4>Info in brief</h4>
+            <div class="hline"></div>
+            <p><b>Voice for:</b> {{ page.date | date: "%B %Y" }}</p>
+            <p><b>From:</b> {{ page.institute }}</p>
+            <p><b>Interested in:</b> {{ page.topics }}</p>
+            <p><b>Personal Twitter:</b> <a href="{{ page.twitter }}">{{ page.twitter }}</a></p>
+        </div>
+    </div><! --/row -->
+</div><! --/container -->

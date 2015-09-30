@@ -1,0 +1,27 @@
+<div id="footerwrap">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-4">
+                <h4>About</h4>
+                <div class="hline-w"></div>
+                <p><a href="https://twitter.com/CMSvoices">@CMSvoices</a> allows members of the public to engage with members of the CMS Collaboration at CERN via Twitter. You will hear from a new CMS Voice every month, speaking as themselves and talking about everything to do with life at CMS.</p>
+            </div>
+            <div class="col-lg-4">
+                <h4>Disclaimer</h4>
+                <div class="hline-w"></div>
+                <p>
+                    All views expressed by CMS members using the <a href="https://twitter.com/CMSvoices">@CMSvoices</a> Twitter account are their own and are not necessarily endorsed by the CMS Collaboration.
+                </p>
+            </div>
+            <div class="col-lg-4">
+                <h4>Official CMS accounts</h4>
+                <div class="hline-w"></div>
+                <p>
+                    {% for network in site.social %}
+                        <a href="{{ network.url }}" class="btn-social btn-outline"><i class="fa fa-{{ network.title }}"></i></a>
+                    {% endfor %}
+                </p>
+            </div>
+        </div><! --/row -->
+    </div><! --/container -->
+</div><! --/footerwrap -->

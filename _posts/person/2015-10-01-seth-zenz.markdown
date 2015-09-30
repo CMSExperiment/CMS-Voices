@@ -1,0 +1,19 @@
+---
+layout: person
+categories:
+- person
+
+title:  "Seth Zenz"
+date:   2015-10-01 00:00:01
+institute: Imperial College London
+topics: "The Higgs boson"
+img: 01_SethZenz_thumb.jpg
+carousel:
+- 01_SethZenz_Carousel_1.jpg
+- 01_SethZenz_Carousel_2.jpg
+twitter: https://twitter.com/sethzenz
+---
+
+# Seth Zenz
+
+Dr. Seth Zenz is a particle physicist at Imperial College London. He contributes to studies of the Higgs boson, which was discovered in 2012 by CMS and ATLAS, the two general-purpose LHC detectors. By studying specific ways by which this new particle is produced and decayed, he will help determine whether it is truly consistent with the Higgs boson predicted by the Standard Model of particle physics. His current focus is on Higgs decays to pairs of photons.
