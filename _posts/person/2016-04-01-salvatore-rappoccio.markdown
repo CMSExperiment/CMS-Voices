@@ -4,7 +4,7 @@ categories:
 - person
 
 title:  "Salvatore Rappoccio"
-date:   2016-03-01 00:00:01
+date:   2016-04-01 00:00:01
 institute: "University at Buffalo, State University of New York"
 topics: "New Physics"
 img: 07_SalvatoreRappoccio_thumb.jpg
