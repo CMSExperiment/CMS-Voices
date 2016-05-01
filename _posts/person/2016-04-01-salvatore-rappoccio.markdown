@@ -16,4 +16,4 @@ twitter: https://twitter.com/srrappoccio
 
 # Salvatore Rappoccio
 
-Sal is a professor from New York. He has been a member of the CMS Collaboration since 2007, having previously worked at the Tevatron near Chicago on the CDF experiment. His research interests include quantum chromodynamics, jet physics, top-quark physics and searches for new physics beyond the Standard Model. He is the former convener of one of the Physics Analysis Groups on CMS ("Beyond Two Generations" or B2G).
+Sal is a professor from New York. He has been a member of the CMS Collaboration since 2007, having previously worked at the Tevatron near Chicago on the CDF experiment. His research interests include quantum chromodynamics, jet physics, top-quark physics and searches for new physics beyond the Standard Model. He is the former convener of one of the Physics Analysis Groups on CMS ("Beyond-Two-Generations" or B2G).
