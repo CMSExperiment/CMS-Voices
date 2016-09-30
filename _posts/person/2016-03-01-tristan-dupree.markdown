@@ -11,7 +11,7 @@ img: 06_TristanDuPree_thumb.jpg
 carousel:
 - 06_TristanDuPree_Carousel_1.jpg
 - 06_TristanDuPree_Carousel_2.jpg
-twitter: https://twitter.com/Tristan_duPree
+twitter: Tristan_duPree
 ---
 
 # Tristan du Pree

@@ -11,7 +11,7 @@ img: 07_SalvatoreRappoccio_thumb.jpg
 carousel:
 - 07_SalvatoreRappoccio_Carousel_1.jpg
 - 07_SalvatoreRappoccio_Carousel_2.jpg
-twitter: https://twitter.com/srrappoccio
+twitter: srrappoccio
 ---
 
 # Salvatore Rappoccio

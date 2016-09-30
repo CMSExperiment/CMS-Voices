@@ -11,7 +11,7 @@ img: 02_MattBellis_thumb.jpg
 carousel:
 - 02_MattBellis_Carousel_1.jpg
 - 02_MattBellis_Carousel_2.jpg
-twitter: https://twitter.com/matt_bellis
+twitter: matt_bellis
 ---
 
 # Matt Bellis

@@ -11,7 +11,7 @@ img: 04_CamiloCarrillo_thumb.jpg
 carousel:
 - 04_CamiloCarrillo_Carousel_1.jpg
 - 04_CamiloCarrillo_Carousel_2.jpg
-twitter: https://twitter.com/miloc
+twitter: miloc
 ---
 
 # Camilo Carrillo

@@ -11,7 +11,7 @@ img: 10_JamesKeaveney_thumb.jpg
 carousel:
 - 10_JamesKeaveney_Carousel_1.jpg
 - 10_JamesKeaveney_Carousel_2.jpg
-twitter: https://twitter.com/shmeaux
+twitter: shmeaux
 ---
 
 # James Keaveney

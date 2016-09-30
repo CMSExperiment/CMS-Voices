@@ -11,7 +11,7 @@ img: 11_BjoernPenning_thumb.jpg
 carousel:
 - 11_BjoernPenning_Carousel_1.jpg
 - 11_BjoernPenning_Carousel_2.jpg
-twitter: https://twitter.com/BjoernPenning
+twitter: BjoernPenning
 ---
 
 # Bjoern Penning
