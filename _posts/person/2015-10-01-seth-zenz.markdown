@@ -11,7 +11,7 @@ img: 01_SethZenz_thumb.jpg
 carousel:
 - 01_SethZenz_Carousel_1.jpg
 - 01_SethZenz_Carousel_2.jpg
-twitter: https://twitter.com/sethzenz
+twitter: sethzenz
 ---
 
 # Seth Zenz

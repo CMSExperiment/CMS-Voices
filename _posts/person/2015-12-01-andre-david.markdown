@@ -11,7 +11,7 @@ img: 03_AndreDavid_thumb.jpg
 carousel:
 - 03_AndreDavid_Carousel_1.jpg
 - 03_AndreDavid_Carousel_2.jpg
-twitter: https://twitter.com/DrAndreDavid
+twitter: DrAndreDavid
 ---
 
 # André David

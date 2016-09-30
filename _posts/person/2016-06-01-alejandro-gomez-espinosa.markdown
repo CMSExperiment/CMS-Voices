@@ -11,7 +11,7 @@ img: 09_AlejandroGomezEspinosa_thumb.jpg
 carousel:
 - 09_AlejandroGomezEspinosa_Carousel_1.jpg
 - 09_AlejandroGomezEspinosa_Carousel_2.jpg
-twitter: https://twitter.com/alefisico
+twitter: alefisico
 ---
 
 # Alejandro Gomez Espinosa

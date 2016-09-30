@@ -11,7 +11,7 @@ img: 05_RebecaGonzalezSuarez_thumb.jpg
 carousel:
 - 05_RebecaGonzalezSuarez_Carousel_1.jpg
 - 05_RebecaGonzalezSuarez_Carousel_2.jpg
-twitter: https://twitter.com/1cRebeca
+twitter: 1cRebeca
 ---
 
 # Rebeca Gonzalez Suarez

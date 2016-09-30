@@ -11,7 +11,7 @@ img: 08_FreyaBlekman_thumb.jpg
 carousel:
 - 08_FreyaBlekman_Carousel_1.jpg
 - 08_FreyaBlekman_Carousel_2.jpg
-twitter: https://twitter.com/freyablekman
+twitter: freyablekman
 ---
 
 # Freya Blekman
