@@ -4,7 +4,7 @@
 title: "CMS VOICES"
 description: "Homepage of @CMSvoices from the CMS Experiment at CERN."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
-baseurl: "" #important: start with /
+baseurl: "/cms-voices" #important: start with /
 url: "http://cern.ch/cms-voices"
 
 # Build settings
