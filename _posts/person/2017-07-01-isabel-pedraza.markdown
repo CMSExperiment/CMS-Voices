@@ -6,7 +6,7 @@ categories:
 title:  "Isabel Pedraza"
 date:   2017-07-01 00:00:01
 institute: "Autonomous University of Puebla (BUAP)"
-topics: "Data visualisation, open data, outreach, SUSY"
+topics: "Upgrades, Higgs searches, computing, outreach"
 img: 19_IsabelPedraza_thumb.jpg
 carousel:
 - 19_IsabelPedraza_Carousel_1.jpg
