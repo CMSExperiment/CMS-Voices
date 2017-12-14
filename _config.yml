@@ -9,7 +9,7 @@ url: "http://cern.ch/cms-voices"
 
 # Build settings
 markdown: kramdown
-permalink: /:title
+permalink: /:title/
 
 colors:  #in hex code if not noted else
   primary: "#00b3fe" #"#F70031"
